@@ -1,0 +1,3 @@
+mkdir storytelling-api && cd storytelling-api
+npm init -y
+npm install express mongoose dotenv cors multer
